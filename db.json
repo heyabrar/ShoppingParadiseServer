@@ -163,51 +163,96 @@
             "discount" : "12% Off",
             "category" : "skin",
             "brand" : "skinras"
-            },
+        },
 
-            { 
-                "id" : 14,
-                "title" : "Ras Luxury Oils Oh So Luxe Lip and Cheek Tint Balm",
-                "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/0/40612c7RASLU00000016_1.jpg",
-                "price" : "3500",
-                "actualPrice" : "2170",
-                "discount" : "16% Off",
-                "category" : "skin",
-                "brand" : "skinras"
-                },
+        { 
+            "id" : 14,
+            "title" : "Ras Luxury Oils Oh So Luxe Lip and Cheek Tint Balm",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/0/40612c7RASLU00000016_1.jpg",
+            "price" : "3500",
+            "actualPrice" : "2170",
+            "discount" : "16% Off",
+            "category" : "skin",
+            "brand" : "skinras"
+        },
 
-                { 
-                    "id" : 15,
-                    "title" : "L'Oreal Professionnel Metal Dx Shampoo & Hair Mask Combo",
-                    "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/1/d1f0e6e8901526401376_aa1.jpg",
-                    "price" : "1350",
-                    "actualPrice" : "1450",
-                    "discount" : "19% Off",
-                    "category" : "hair",
-                    "brand" : "loreal"
-                    },
+        { 
+            "id" : 15,
+            "title" : "L'Oreal Professionnel Metal Dx Shampoo & Hair Mask Combo",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/1/d1f0e6e8901526401376_aa1.jpg",
+            "price" : "1350",
+            "actualPrice" : "1450",
+            "discount" : "19% Off",
+            "category" : "hair",
+            "brand" : "loreal"
+        },
 
-                    { 
-                        "id" : 16,
-                        "title" : "L'Oreal Professionnel Absolut Repair Shampoo 300ml, Hair",
-                        "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/1/d1f0e6e8901526401376_aa1.jpg",
-                        "price" : "1350",
-                        "actualPrice" : "1450",
-                        "discount" : "19% Off",
-                        "category" : "hair",
-                        "brand" : "loreal"
-                        },
+        { 
+            "id" : 16,
+            "title" : "L'Oreal Professionnel Absolut Repair Shampoo 300ml, Hair",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/1/d1f0e6e8901526401376_aa1.jpg",
+            "price" : "1350",
+            "actualPrice" : "1450",
+            "discount" : "19% Off",
+            "category" : "hair",
+            "brand" : "loreal"
+        },
 
-                        { 
-                            "id" : 17,
-                            "title" : "L'Oreal Professionnel Xtenso Care Sulfate Free Hair Care",
-                            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/1/d1f0e6e8901526401376_aa1.jpg",
-                            "price" : "1350",
-                            "actualPrice" : "1450",
-                            "discount" : "19% Off",
-                            "category" : "hair",
-                            "brand" : "loreal"
-                            }
+        { 
+            "id" : 17,
+            "title" : "L'Oreal Professionnel Xtenso Care Sulfate Free Hair Care",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/1/d1f0e6e8901526401376_aa1.jpg",
+            "price" : "1350",
+            "actualPrice" : "1450",
+            "discount" : "19% Off",
+            "category" : "hair",
+            "brand" : "loreal"
+        },
+
+        { 
+            "id" : 18,
+            "title" : "Garnier Bright Complete Brightening Face Wash",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/0/50aa4d78901526005918_1.jpg",
+            "price" : "322",
+            "actualPrice" : "480",
+            "discount" : "33% Off",
+            "category" : "men",
+            "brand" : "garnier"
+        },
+
+        { 
+            "id" : 19,
+            "title" : "Garnier Color Naturals Creme Hair Color",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/3/7329d7d8901526539314_0.jpg",
+            "price" : "199",
+            "actualPrice" : "480",
+            "discount" : "15% Off",
+            "category" : "men",
+            "brand" : "garnier"
+        },
+
+        { 
+            "id" : 20,
+            "title" : "Garnier Skin Naturals Light Complete Serum Cream",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/5/15ece078901526527632.jpg",
+            "price" : "150",
+            "actualPrice" : "169",
+            "discount" : "11% Off",
+            "category" : "men",
+            "brand" : "garnier"
+        },
+
+        { 
+            "id" : 21,
+            "title" : "Garnier Black Naturals Oil Enriched Cream Hair Colour",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/a/eaed0068901526209897_1.jpg",
+            "price" : "39",
+            "actualPrice" : "",
+            "discount" : "",
+            "category" : "men",
+            "brand" : "garnier"
+            }
+
 
                 
     ]
