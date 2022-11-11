@@ -251,9 +251,19 @@
             "discount" : "",
             "category" : "men",
             "brand" : "garnier"
-            }
+        }       
+    ],
 
-
-                
+    "cart" : [
+        {
+            "id" : 1,
+            "title" : "Cart Test",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/a/eaed0068901526209897_1.jpg",
+            "price" : "399",
+            "actualPrice" : "599",
+            "discount" : "21% Off",
+            "category" : "men",
+            "brand" : "garnier"
+        }
     ]
 }
