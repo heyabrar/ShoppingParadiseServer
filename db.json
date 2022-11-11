@@ -6,7 +6,18 @@
             "image" : "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/9/7/97c52ce3562700373145_0.jpg",
             "price" : "600",
             "actualPrice" : "890",
-            "discount" : "15% Off"
+            "discount" : "15% Off",
+            "category" : "Skin"
+        },
+
+        {
+            "id" : 2,
+            "title" : "Testing1",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/9/7/97c52ce3562700373145_0.jpg",
+            "price" : "600",
+            "actualPrice" : "890",
+            "discount" : "15% Off",
+            "category" : "Hair"
         }
     ]
 }
