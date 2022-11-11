@@ -2,22 +2,178 @@
     "Products" : [
         {
             "id" : 1,
-            "title" : "Testing1",
-            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/9/7/97c52ce3562700373145_0.jpg",
+            "title" : "Dot & Key Argan Oil Hairfall Control Shampoo With Moringa &",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/8/f8eb1fbDOTKE00000118-1.jpg",
             "price" : "600",
             "actualPrice" : "890",
             "discount" : "15% Off",
-            "category" : "Skin"
+            "category" : "skin",
+            "brand" : "dotkey"
         },
 
         {
             "id" : 2,
-            "title" : "Testing1",
-            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/9/7/97c52ce3562700373145_0.jpg",
+            "title" : "Dot & Key 72 Hr Hydrating Gel + Probiotics",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/0/009b1fbDOTKE00000024-1.jpg",
             "price" : "600",
             "actualPrice" : "890",
             "discount" : "15% Off",
-            "category" : "Hair"
-        }
+            "category" : "skin",
+            "brand" : "dotkey"
+        },
+
+        {
+            "id" : 3,
+            "title" : "Dot & Key Watermelon Matte Glow Moisturizer With Glycolic",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/7/07b41fbDOTKE00000080-1.jpg",
+            "price" : "495",
+            "actualPrice" : "550",
+            "discount" : "15% Off",
+            "category" : "skin",
+            "brand" : "dotkey"
+        },
+
+        {
+            "id" : 4,
+            "title" : "Dot & Key Deep Pore Clean Milky Foam Cleanser",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/b/db76ca0DOTKE00000020-1.jpg",
+            "price" : "298",
+            "actualPrice" : "350",
+            "discount" : "25% Off",
+            "category" : "skin",
+            "brand" : "dotkey"
+        },
+
+        { 
+             "id" : 5,
+            "title" : "Dot & Key Cica Calming Niacinamide Sunscreen SPF 50",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/c/fc5b59fDOTKE00000158-1.jpg",
+            "price" : "506",
+            "actualPrice" : "580",
+            "discount" : "15% Off",
+            "category" : "skin",
+            "brand" : "dotkey"
+        },
+
+        { 
+            "id" : 6,
+        "title" : "L'Oreal Paris Glycolic Bright Day Regime",
+        "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/e/be291a3LOREA00000395_1.jpg",
+        "price" : "1111",
+        "actualPrice" : "1289",
+        "discount" : "14% Off",
+        "category" : "skin",
+        "brand" : "loreal"
+        },
+
+    { 
+        "id" : 7,
+    "title" : "L'Oreal Paris Hydrated, Plump & Radiant Skin Kit",
+    "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/4/c4f2851LOREA00000115_1.jpg",
+    "price" : "1137",
+    "actualPrice" : "1478",
+    "discount" : "16% Off",
+    "category" : "skin",
+    "brand" : "loreal"
+    },
+    { 
+        "id" : 8,
+    "title" : "L'Oreal Paris Revitalift Hyaluronic Acid Plumping Day Cream",
+    "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/0/304ef79LOREA00000093_1.jpg",
+    "price" : "669",
+    "actualPrice" : "996",
+    "discount" : "14% Off",
+    "category" : "skin",
+    "brand" : "loreal"
+    },
+
+    { 
+    "id" : 9,
+    "title" : "L'Oreal Paris Revitalift Crystal Micro-Essence",
+    "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/0/40557ab6923700934472.jpg",
+    "price" : "1197",
+    "actualPrice" : "1497",
+    "discount" : "16% Off",
+    "category" : "skin",
+    "brand" : "loreal"
+    },
+
+    { 
+    "id" : 10,
+    "title" : "Estee Lauder Double Wear Stay-In-Place Makeup Mini SPF 10",
+    "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/e/be696c4887167352971_1.jpg",
+    "actualPrice" : "2600",
+    "price" : "2170",
+    "discount" : "25% Off",
+    "category" : "skin",
+    "brand" : "estee"
+    },
+
+    { 
+        "id" : 11,
+        "title" : "Estee Lauder Futurist Hydra Rescue Moisturizing Makeup SPF",
+        "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/a/daf01f5887167466708_1.jpg",
+        "price" : "3500",
+        "actualPrice" : "2170",
+        "discount" : "16% Off",
+        "category" : "skin",
+        "brand" : "estee"
+        },
+
+        { 
+        "id" : 12,
+        "title" : "Estee Lauder Advanced Night Repair Synchronized Multi-",
+        "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/7/a72310aestee00000043_1.jpg",
+        "price" : "1350",
+        "actualPrice" : "1450",
+        "discount" : "19% Off",
+        "category" : "skin",
+        "brand" : "estee"
+        },
+
+
+        { 
+        "id" : 13,
+        "title" : "Estee Lauder Nutritious Super-Pomegranate Radiant Energy",
+        "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/e/be696c4887167352971_1.jpg",
+        "price" : "3500",
+        "actualPrice" : "2170",
+        "discount" : "16% Off",
+        "category" : "skin",
+        "brand" : "estee"
+        },
+        
+        { 
+            "id" : 14,
+            "title" : "RAS Luxury Oils Illuminate Hydrating & Brightening Eye",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/4/840b2c7RASLU00000070_1.jpg",
+            "price" : "1512",
+            "actualPrice" : "2170",
+            "discount" : "16% Off",
+            "category" : "skin",
+            "brand" : "skinras"
+        },
+
+        { 
+            "id" : 15,
+            "title" : "RAS Luxury Oils Oh So Luxe Liquid Lip Balm - Pale Yellow",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/a/aa879af639853923541_1.jpg",
+            "price" : "2500",
+            "actualPrice" : "2870",
+            "discount" : "12% Off",
+            "category" : "skin",
+            "brand" : "skinras"
+            },
+
+            { 
+                "id" : 14,
+                "title" : "Ras Luxury Oils Oh So Luxe Lip and Cheek Tint Balm",
+                "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/0/40612c7RASLU00000016_1.jpg",
+                "price" : "3500",
+                "actualPrice" : "2170",
+                "discount" : "16% Off",
+                "category" : "skin",
+                "brand" : "skinras"
+                }
     ]
 }
