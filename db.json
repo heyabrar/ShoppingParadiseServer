@@ -166,7 +166,7 @@
         },
 
         { 
-            "id" : 14,
+            "id" : 16,
             "title" : "Ras Luxury Oils Oh So Luxe Lip and Cheek Tint Balm",
             "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/0/40612c7RASLU00000016_1.jpg",
             "price" : "3500",
@@ -177,7 +177,7 @@
         },
 
         { 
-            "id" : 15,
+            "id" : 17,
             "title" : "L'Oreal Professionnel Metal Dx Shampoo & Hair Mask Combo",
             "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/1/d1f0e6e8901526401376_aa1.jpg",
             "price" : "1350",
@@ -188,7 +188,7 @@
         },
 
         { 
-            "id" : 16,
+            "id" : 18,
             "title" : "L'Oreal Professionnel Absolut Repair Shampoo 300ml, Hair",
             "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/1/d1f0e6e8901526401376_aa1.jpg",
             "price" : "1350",
@@ -199,7 +199,7 @@
         },
 
         { 
-            "id" : 17,
+            "id" : 19,
             "title" : "L'Oreal Professionnel Xtenso Care Sulfate Free Hair Care",
             "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/1/d1f0e6e8901526401376_aa1.jpg",
             "price" : "1350",
@@ -210,7 +210,7 @@
         },
 
         { 
-            "id" : 18,
+            "id" : 20,
             "title" : "Garnier Bright Complete Brightening Face Wash",
             "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/0/50aa4d78901526005918_1.jpg",
             "price" : "322",
@@ -221,7 +221,7 @@
         },
 
         { 
-            "id" : 19,
+            "id" : 21,
             "title" : "Garnier Color Naturals Creme Hair Color",
             "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/3/7329d7d8901526539314_0.jpg",
             "price" : "199",
@@ -232,7 +232,7 @@
         },
 
         { 
-            "id" : 20,
+            "id" : 22,
             "title" : "Garnier Skin Naturals Light Complete Serum Cream",
             "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/5/15ece078901526527632.jpg",
             "price" : "150",
@@ -243,7 +243,7 @@
         },
 
         { 
-            "id" : 21,
+            "id" : 23,
             "title" : "Garnier Black Naturals Oil Enriched Cream Hair Colour",
             "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/a/eaed0068901526209897_1.jpg",
             "price" : "39",
@@ -251,7 +251,29 @@
             "discount" : "",
             "category" : "men",
             "brand" : "garnier"
-        }       
+        },
+
+        { 
+            "id" : 24,
+            "title" : "Nykaa Wanderlust Deodorant Spray",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/9/8904245713829_1_1.jpg",
+            "price" : "219",
+            "actualPrice" : "272",
+            "discount" : "22% Off",
+            "category" : "fragrance",
+            "brand" : "nykaa"
+        },
+
+        { 
+            "id" : 25,
+            "title" : "Nykaa Cosmetics Endless Nights Eau De Parfum",
+            "image" : "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/c/3c97e8eNYKAC00000197_1.jpg",
+            "price" : "1349",
+            "actualPrice" : "1499",
+            "discount" : "10% Off",
+            "category" : "fragrance",
+            "brand" : "nykaa"
+        }      
     ],
 
     "cart" : [
